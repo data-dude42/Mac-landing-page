@@ -1,4 +1,3 @@
-
 # **Project Name: 3D Rotating Mac with Customizable Texture**
 
 ## **Description**
@@ -59,7 +58,6 @@ This React Three Fiber component renders a 3D model of a Mac computer with a cus
 * The component currently positions the Mac at `[0, -10, 20]` in 3D space. You can adjust these values using the `position` prop on the `group` element.
 * This example uses the basic `useScroll` hook. Consider exploring the more advanced options provided by `@react-three/drei` for finer control over scroll behavior.
 * For more complex material customization, refer to the extensive documentation available for THREE.js materials.
-
 
 **Project Name:** 3D MacBook Pro with Interactive Scroll and Environment
 
@@ -127,12 +125,11 @@ We welcome contributions to improve this application! Feel free to submit pull r
 * @react-three/drei:[https://github.com/pmndrs/drei](https://github.com/pmndrs/drei)
 * THREE.js:[https://threejs.org/](https://threejs.org/)
 
-
-
-
 **Contribution**
 
 We welcome contributions to improve this component! Feel free to submit pull requests that enhance functionality, documentation, or error handling.
+
+# LINK: [Vite + React (mac-landing-page-kappa.vercel.app)](https://mac-landing-page-kappa.vercel.app/)
 
 # **Author(s)**
 
